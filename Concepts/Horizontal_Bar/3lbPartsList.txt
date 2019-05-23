@@ -1,0 +1,6 @@
+3lb parts list
+
+Bolts (1/4 x 20 1") 	-> https://www.mcmaster.com/#91251a542/=1d3fe16
+Drive Motors		-> https://www.servocity.com/730-rpm-premium-planetary-gear-motor
+Weapon Motor 		-> https://hobbyking.com/en_us/turnigy-d2836-8-1100kv-brushless-outrunner-motor.html
+Weapon Motor 2 		-> https://hobbyking.com/en_us/prop-drive-v2-series-2836-1200kv-530w-brushless-outrunner-motor.html
